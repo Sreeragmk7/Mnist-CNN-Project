@@ -1,0 +1,7 @@
+#Mnist-NN-Project
+### To push my code to main
+
+### To rin bash script
+```
+bash ./init_script.sh
+```
